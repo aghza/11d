@@ -1,0 +1,78 @@
+body{
+    font-family: 	
+    Calibri, Helvetica, sans-serif;
+    }
+    #div1{
+      margin:auto;
+      width:50%;
+      padding:100px;
+    }
+    
+    p{
+      font-family: sans-serif;  
+      font-size: 10px;
+      color:#808080
+      
+    }
+    
+    
+    
+    #t1 {
+      display: inline-block;
+      vertical-align: top;
+    }
+    
+    table{
+      border-collapse: collapse;
+     }
+    
+    th, td {
+      border: 1px solid #C70039;
+      padding: 7px;
+      text-align: center;
+      color:#6e83e0;
+      font-weight:bold;
+    }
+    
+    th {
+      color: White;
+      background-color: #6e83e0;
+      
+    }
+    
+    th.horaire{
+      background-color: #696969;
+     
+    }
+    
+    
+    .silver {
+      background-color: silver;
+    }
+    .vide{
+      background-color: #696969;
+      width:5px;
+    }
+    
+    td:first-child,td.lundi {
+      background-color:#6e83e0;
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      width:100px;
+      
+    }
+    
+    td.jours{
+      background-color: #696969;
+      width : 30px;
+    }
+    
+    code {
+       
+       display: inline-block;
+      vertical-align: middle;
+      font-size:20px;
+      
+    }
+    
